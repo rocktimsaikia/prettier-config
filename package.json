@@ -1,0 +1,23 @@
+{
+  "name": "@rocktimsaikia/prettier-config",
+  "version": "1.0.0",
+  "description": "Rocktim's preferred Prettier config",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "prettier": ">=2.0.0"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "rocktimsaikia"
+  ],
+  "author": {
+    "name": "Rocktim Saikia",
+    "email": "hello@rocktimsaikia.dev",
+    "url": "https://rocktimsaikia.dev"
+  },
+  "license": "MIT"
+}
