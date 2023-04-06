@@ -1,14 +1,12 @@
 # @rocktimsaikia/prettier-config
 
 > My personal Prettier config
-<br/>
 
 ## Install
 
 ```sh
 pnpm add -D @rocktimsaikia/prettier-config
 ```
-<br/>
 
 ## Usage
 
@@ -19,7 +17,6 @@ In `package.json`:
   "prettier": "@egoist/prettier-config"
 }
 ```
-<br/>
 
 ## License
 
