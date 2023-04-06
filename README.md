@@ -14,7 +14,7 @@ In `package.json`:
 
 ```json
 {
-  "prettier": "@egoist/prettier-config"
+  "prettier": "@rocktimsaikia/prettier-config"
 }
 ```
 
