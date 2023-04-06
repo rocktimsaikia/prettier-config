@@ -1,14 +1,16 @@
-## @rocktimsaikia/prettier-config
+# @rocktimsaikia/prettier-config
 
 > My personal Prettier config
+<br/>
 
-### Install
+## Install
 
 ```sh
 pnpm add -D @rocktimsaikia/prettier-config
 ```
+<br/>
 
-### Usage
+## Usage
 
 In `package.json`:
 
@@ -17,7 +19,8 @@ In `package.json`:
   "prettier": "@egoist/prettier-config"
 }
 ```
+<br/>
 
-### License
+## License
 
 MIT &copy; [Rocktim Saikia](http://rocktimsaikia.dev)
