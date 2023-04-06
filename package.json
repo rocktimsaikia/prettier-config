@@ -1,7 +1,7 @@
 {
   "name": "@rocktimsaikia/prettier-config",
   "version": "1.0.0",
-  "description": "Rocktim's preferred Prettier config",
+  "description": "My preferred Prettier config",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
