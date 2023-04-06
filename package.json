@@ -7,6 +7,9 @@
     "index.json"
   ],
   "repository": "rocktimsaikia/prettier-config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
   "peerDependencies": {
     "prettier": ">=2.0.0"
   },
