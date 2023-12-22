@@ -1,6 +1,6 @@
 {
   "name": "@rocktimsaikia/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My preferred Prettier config",
   "main": "index.json",
   "files": [
